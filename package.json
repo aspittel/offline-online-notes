@@ -1,0 +1,28 @@
+{
+  "name": "vanillajs-starter",
+  "version": "1.0.0",
+  "description": "``` $ npm install $ npm run start ```",
+  "main": "index.js",
+  "scripts": {
+     "start": "parcel index.html",
+      "build":  "build index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspittel/vanillajs-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspittel/vanillajs-starter/issues"
+  },
+  "homepage": "https://github.com/aspittel/vanillajs-starter#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-preset-env": "^1.7.0",
+    "parcel": "next"
+  }
+}
